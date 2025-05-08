@@ -1,6 +1,6 @@
 {
   "YOUR_KEY_1": {
-    "expiry": "2024-01-01T00:00:00",
+    "expiry": "2026-01-01T00:00:00",
     "allowed": true
   },
   "YOUR_KEY_2": {
@@ -8,6 +8,6 @@
     "allowed": false
   },
   "YOUR_KEY_3": {
-    "expiry": "2025-01-15T12:00:00"  // "allowed" defaults to true
+    "expiry": "2025-01-15T12:00:00"
   }
 }
