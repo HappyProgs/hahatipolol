@@ -1,7 +1,9 @@
-    {
-      "valid_keys": [
-        "123",
-        "EEEE-FFFF-GGGG-HHHH",
-        "IIII-JJJJ-KKKK-LLLL"
-      ]
-    }
+{
+  "KEY123": {
+    "expiry_date": "2026-12-31T23:59:59"
+  },
+  "ANOTHERKEY": {
+    "expiry_date": "2026-11-15T12:00:00"
+  },
+  "FOREVERKEY": {}
+}
