@@ -1,17 +1,7 @@
     {
-      "ключ1": {
-        "username": "User1",
-        "level": "admin",
-        "expiry_date": "2024-12-31"
-      },
-      "ключ2": {
-        "username": "User2",
-        "level": "user",
-        "expiry_date": "2024-11-15"
-      },
-      "ключ3": {
-        "username": "User3",
-        "level": "vip",
-        "expiry_date": "2024-10-01"
-      }
+      "valid_keys": [
+        "AAAA-BBBB-CCCC-DDDD",
+        "EEEE-FFFF-GGGG-HHHH",
+        "IIII-JJJJ-KKKK-LLLL"
+      ]
     }
